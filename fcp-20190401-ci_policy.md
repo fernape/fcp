@@ -52,7 +52,7 @@ Everyone (committers and non-committers alike) is
 encouraged to investigate failures in non-experimental jobs [1].
 The investigator should prepare a report identifying the commit which triggered
 the failure as well as details about the failure (for example, compile errors or
-output from failing tests).  The investigator should
+output from failing tests).
 The commit which triggered this failure should send this report to all of the following:
 
  - The author of the triggering commit
